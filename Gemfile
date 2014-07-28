@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+#EmberJS
+gem 'ember-rails'
+gem 'ember-source'
