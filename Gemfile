@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 #EmberJS
 gem 'ember-rails'
 gem 'ember-source'
+
+gem 'ffaker'
